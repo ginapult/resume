@@ -57,7 +57,7 @@ B.A. Biology, Political Science
 #### GetExcitedPeople: A SlackBot App,  [github/getexcitedpeople](https://github.com/ginapult-401-advanced-javascript/getexcitedpeople) | SEP 2019
 *   SlackBot app to prevent burnout by letting users curate their own inspiration library
 *   Built with: JavaScript, Node.js, Express, MongoDB, Heroku, Travis CI
-![GetExcitedPeople](https://github.com/ginapult/resume/blob/master/gep-small.png "GetExcitedPeople")
+<img src="https://github.com/ginapult/resume/blob/master/gep-screenshot-today.png" alt="PixE Present" width="400"/>
 
 #### StarChaser, [github/starchaser](https://github.com/ginapult/starchaser) | JUL 2019
 *   Mobile-first web app to help stargazers know when and where to go for the best views
