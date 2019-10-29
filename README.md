@@ -6,8 +6,8 @@
 
 ## **Professional Experience**
 
-### Assistant Project Director, Trainer/Facilitator, Mindful Leadership Training
-#### Calm Clarity, Philadelphia, PA | Jan 2017 - Dec 2018
+### Calm Clarity, Philadelphia, PA | Jan 2017 - Dec 2018
+#### Assistant Project Director, Trainer/Facilitator, Mindful Leadership Training
 _Co-coordinated curriculum development and training delivery or social enterprise start-up that facilitates neuroscience-based mindful leadership training._
 
 Managed logistics, scheduling, and delivery of in-person and virtual training events for professionals, leaders, and university students across the socio-economic spectrum. Script development for virtual training. Developed partnerships with universities to expand social impact efforts. Managed social media, marketing and public relations, client relations, content development, course design, and video and audio content.
@@ -22,8 +22,8 @@ Managed logistics, scheduling, and delivery of in-person and virtual training ev
 
 * Produced eleven video testimonials
 
-### Director
-#### Cabrini Mission Corps Post-Graduate International Service Program, Radnor, PA | Mar 2006 - Jun 2016
+### Cabrini Mission Corps, Radnor, PA | Mar 2006 - Jun 2016
+#### Director, Post-Graduate International Service Learning Program
 _Directed full-time, post-graduate international service program for recent university graduates, mid-career professionals, and retirees to serve in social services organizations in the US and overseas._
 
 Led operations and program management through yearly project life-cycle: initiation, planning, execution, performance/monitoring, and project close. Stakeholder relations and collaboration, analysis and planning; organizing and supervising processes to support strategic goals; increasing profitability and quality of organizational programming. Collaborated with SMEs, vendors, instructors and faculty to develop, execute, evaluate and evolve a comprehensive learning and development curriculum that included onboarding, personal and professional development training, and change and transition management.
@@ -36,8 +36,8 @@ Led operations and program management through yearly project life-cycle: initiat
 
 * Designed processes for collecting participant feedback and incorporating improvements to the learning and development curriculum for program participants; led to increased levels of satisfaction year-after-year, consistently - feedback rose from 3/5 to 4.5/5 approval level on training and preparation
 
-### Senior Consultant, Global Outsourcing, Data Warehousing, IMPACT Co-Lead
-#### Deloitte Consulting, East Brunswick, NJ
+### Deloitte Consulting, East Brunswick, NJ
+#### Senior Consultant, Global Outsourcing, Data Warehousing, IMPACT Co-Lead
 _Supported global team providing transition support to major electronics manufacturer in invoicing and accounts receivable functions for data warehousing client engagement. Coordinated customized application development. Developed and issued regular client communication releases. Co-led IMPACT Community Service Program.
 
 ##### Accomplishments
