@@ -40,6 +40,7 @@ B.A. Biology, Political Science
 - Prototyping &ndash; Marvel, Sketch
 - Video Editor &ndash; Avid, iMovie, Filmora
 - Social Media & Email Distribution System &ndash; MailChimp, Hootsuit
+- Project/task Management &ndash; Trello, GitHub Projects
 
 ## **Projects**
 
@@ -58,6 +59,7 @@ B.A. Biology, Political Science
 #### StarChaser, [github/starchaser](https://github.com/ginapult/starchaser) | JUL 2019
 *   Mobile-first web app to help stargazers know when and where to go for the best views
 *   Built with: HTML, CSS, JavaScript, JQuery, Embedded JavaScript, PostgreSQL
+*   APIs: Google GeoCode and Distance-Matrix API (location), Darksky (weather and moon phase), NASA's APOD API (NASA image of the day)
 ![StarChaser](https://github.com/ginapult/resume/blob/master/starchaser-room.png "StarChaser")
 
 
