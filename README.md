@@ -149,16 +149,22 @@ B.A. Biology, Political Science
 ## **Site Design & Development**
 
 ### From Mission to Mission
+*   Website for nonprofit focused on providing workshops for people in transition; site needed program information, blog and donor functionality, and integration with email client
+*   Built with: Wordpress, iMovie, Canva
 <img src="https://github.com/ginapult/resume/blob/master/fmtm-screenshots.png" alt="FMTM" width="400"/>
 
 ## **Prototype Design**
 ### Data Science for Contracts Tech Startup Prototype (Marvel App)
+*   Created prototype for principal presentation to investors at National Day of Civic Hacking at Microsoft
+*   Built with: Marvel App
 <img src="https://github.com/ginapult/resume/blob/master/caer-proto.png" alt="Start up" width="400"/>
 
 [Visit live prototype on Marvel](https://marvelapp.com/1i8dg52g/screen/61651892)
 <hr>
 
 ### PixE App Prototype (Marvel App)
+*   Created prototype to guide project team in week-long project
+*   Built with: Marvel App, Canva
 <img src="https://github.com/ginapult/resume/blob/master/IMG_0161.jpg" alt="PixE Proto" width="400"/>
 
 [Visit live prototype on Marvel](https://marvelapp.com/4gca0bd/screen/62412475)
