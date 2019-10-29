@@ -58,12 +58,13 @@ B.A. Biology, Political Science
 #### StarChaser, [github/starchaser](https://github.com/ginapult/starchaser) | JUL 2019
 *   Mobile-first web app to help stargazers know when and where to go for the best views
 *   Built with: HTML, CSS, JavaScript, JQuery, Embedded JavaScript, PostgreSQL
-![StarChaser](https://github.com/ginapult/resume/blob/master/starchaser%20x%204.png "StarChaser")
+![StarChaser](https://github.com/ginapult/resume/blob/master/starchaser-room.png "StarChaser")
 
 
 #### [Push.It: Adulting 101](https://group-project-201-d49.github.io/adulting_101/), [github/adulting-101](https://github.com/ginapult/adulting_101) | JUN 2019
 *   Fun, interactive web app game to help millennials learn Adulting 101 life skills
 *   Built with: HTML5, CSS, JavaScript
+![Adulting101](https://github.com/ginapult/resume/blob/master/adulting.png "Adulting 101")
 
 ### **Presentations**
 
