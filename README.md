@@ -69,6 +69,15 @@ B.A. Biology, Political Science
 ![Adulting101](https://github.com/ginapult/resume/blob/master/adulting101-room.png "Adulting 101")
 
 ### **Presentations**
+#### PixE
+![PixE Present](https://github.com/ginapult/resume/blob/master/pixe-present.png "PixE Present")
+[View presentation on Google slides](https://docs.google.com/presentation/d/1TkkZSCPCN_BIFwbW-vUOWYB2kcrZR4KV1giHD-fX8yE/edit?usp=sharing)
+
+
+#### GetExcitedPeople
+![GetExcitedPeople Present](https://github.com/ginapult/resume/blob/master/gep-present.png "GetExcitedPeople Present")
+[View presentation on Google slides](https://docs.google.com/presentation/d/1yJIqpMi_lvMNtQubW0UYqydN52bC383eiGLXfi07T0Y/edit?usp=sharing)
+https://github.com/ginapult/resume/blob/master/gep-present.png
 
 ### **Website Design**
 
