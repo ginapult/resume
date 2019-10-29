@@ -68,7 +68,7 @@ B.A. Biology, Political Science
 #### [Push.It: Adulting 101](https://group-project-201-d49.github.io/adulting_101/), [github/adulting-101](https://github.com/ginapult/adulting_101) | JUN 2019
 *   Fun, interactive web app game to help millennials learn Adulting 101 life skills
 *   Built with: HTML5, CSS, JavaScript
-![Adulting101](https://github.com/ginapult/resume/blob/master/adulting101-room.png "Adulting 101")
+<img src="https://github.com/ginapult/resume/blob/master/adulting101-room.png" alt="GetExcited Present" width="800"/>
 
 ### **Presentations**
 #### PixE
