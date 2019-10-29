@@ -60,8 +60,8 @@ From Mission to Mission offers workshops, consulting and resources to individual
 #### Board Member, Strategic Planning | Board Development | Membership Relations
 Catholic Volunteer Network fosters and promotes full-time domestic and international faith-based volunteer service opportunities for people of all ages, backgrounds, and skills. CVN supports and enhances the work of its members through volunteer recruitment, training and resources, networking opportunities, and advocacy. | www.catholicvolunteernetwork.org
 
-#### Response-Ability Volunteer | 2 years
-### Coordinator, Curriculum Development | Program Management | Team Building | Talent Development
+### Response-Ability Volunteer | 2 years
+#### Coordinator, Curriculum Development | Program Management | Team Building | Talent Development
 Co-coordinated education programs for children and adult Haitian immigrants in the Dominican Republic.
 
 ## Education
