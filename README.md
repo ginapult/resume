@@ -21,6 +21,7 @@ Managed logistics, scheduling, and delivery of in-person and virtual training ev
 * Facilitated 15 in-person and online courses to students (high school and university), professionals, leaders, and student-athletes
 
 * Produced eleven video testimonials
+***
 
 ### Cabrini Mission Corps, Radnor, PA | Mar 2006 - Jun 2016
 #### Director, Post-Graduate International Service Learning Program
@@ -35,10 +36,11 @@ Led operations and program management through yearly project life-cycle: initiat
 * Doubled recruitment within one year by streamlining application process and designing and executing a new branding, marketing, and recruitment strategy
 
 * Designed processes for collecting participant feedback and incorporating improvements to the learning and development curriculum for program participants; led to increased levels of satisfaction year-after-year, consistently - feedback rose from 3/5 to 4.5/5 approval level on training and preparation
+***
 
 ### Deloitte Consulting, East Brunswick, NJ
 #### Senior Consultant, Global Outsourcing, Data Warehousing, IMPACT Co-Lead
-_Supported global team providing transition support to major electronics manufacturer in invoicing and accounts receivable functions for data warehousing client engagement. Coordinated customized application development. Developed and issued regular client communication releases. Co-led IMPACT Community Service Program.
+_Supported global team providing transition support to major electronics manufacturer in invoicing and accounts receivable functions for data warehousing client engagement. Coordinated customized application development. Developed and issued regular client communication releases. Co-led IMPACT Community Service Program._
 
 ##### Accomplishments
 
@@ -47,19 +49,20 @@ _Supported global team providing transition support to major electronics manufac
 * Coordinated and delivered training for 165 client users on web-based technology at three remote sites
 
 * Planned and led the implementation of firm-wide global community service program in conjunction with representatives from five remote regional offices; Created web application to coordinate over 100 participating practitioners
+***
 
 **Other Experience**
-### Board Member, Digital Media Development | Book Publishing | Video Production | Change Management
-#### From Mission To Mission, Longmont, CO | 3 years
+### From Mission To Mission, Longmont, CO | 3 years
+#### Board Member, Digital Media Development | Book Publishing | Video Production | Change Management
 From Mission to Mission offers workshops, consulting and resources to individuals, groups and the families of those "re-entering" the United States after years of living and working internationally. FMTM are experts in transition and supporting people through this process in a practical, intentional and compassionate way. | www.missiontomission.org
 
-### Board Member, Strategic Planning | Board Development | Membership Relations
-#### Catholic Volunteer Network, Tacoma Park, MD | 3 years
+### Catholic Volunteer Network, Tacoma Park, MD | 3 years
+#### Board Member, Strategic Planning | Board Development | Membership Relations
 Catholic Volunteer Network fosters and promotes full-time domestic and international faith-based volunteer service opportunities for people of all ages, backgrounds, and skills. CVN supports and enhances the work of its members through volunteer recruitment, training and resources, networking opportunities, and advocacy.
 
+#### Response-Ability Volunteer | 2 years
 ### Coordinator, Curriculum Development | Program Management | Team Building | Talent Development
-#### Response-Ability | 2 years
-Co-coordinated education programs for children and adult Haitian immigrants in the Dominican Republic for 2+ years.
+Co-coordinated education programs for children and adult Haitian immigrants in the Dominican Republic.
 
 ## Education
 
