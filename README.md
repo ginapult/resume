@@ -84,13 +84,13 @@ B.A. Biology, Political Science
 
 ### **Site Design & Development**
 
-#### The Nepal Foundation (Wordpress)
+#### The Nepal Foundation | 2018
 
 #### From Mission to Mission | 2017
 <img src="https://github.com/ginapult/resume/blob/master/fmtm-screenshots.png" alt="FMTM" />
 
 
-### **Prototyping**
+### **Prototypes**
 #### Data Science for Contracts Tech Startup Prototype (Marvel App)
 ![Startup Prototype](https://github.com/ginapult/resume/blob/master/caer-proto.png "Startup")
 [Visit live prototype on Marvel](https://marvelapp.com/1i8dg52g/screen/61651892)
