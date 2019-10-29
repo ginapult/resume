@@ -124,7 +124,7 @@ B.A. Biology, Political Science
 *   Mobile-first web app to help stargazers know when and where to go for the best views
 *   Built with: HTML, CSS, JavaScript, JQuery, Embedded JavaScript, PostgreSQL
 *   APIs: Google GeoCode and Distance-Matrix API (location), Darksky (weather and moon phase), NASA's APOD API (NASA image of the day)
-<img src="https://github.com/ginapult/resume/blob/master/starchaser-room.png "StarChaser" width="400"/>
+<img src="https://github.com/ginapult/resume/blob/master/starchaser-room.png" "StarChaser" width="400"/>
 <hr>
 
 ### [Push.It: Adulting 101](https://group-project-201-d49.github.io/adulting_101/), [github/adulting-101](https://github.com/ginapult/adulting_101) | JUN 2019
@@ -135,13 +135,13 @@ B.A. Biology, Political Science
 
 ## **Presentations**
 ### PixE
-<img src="https://github.com/ginapult/resume/blob/master/pixe-present.png" alt="PixE Present" width="200"/>
+<img src="https://github.com/ginapult/resume/blob/master/pixe-present.png" alt="PixE Present" width="300"/>
 
 [View presentation on Google slides](https://docs.google.com/presentation/d/1TkkZSCPCN_BIFwbW-vUOWYB2kcrZR4KV1giHD-fX8yE/edit?usp=sharing)
 <hr>
 
 ### GetExcitedPeople
-<img src="https://github.com/ginapult/resume/blob/master/gep-present.png" alt="PixE Present" width="200"/>
+<img src="https://github.com/ginapult/resume/blob/master/gep-present.png" alt="PixE Present" width="300"/>
 
 [View presentation on Google slides](https://docs.google.com/presentation/d/1yJIqpMi_lvMNtQubW0UYqydN52bC383eiGLXfi07T0Y/edit?usp=sharing)
 <hr>
