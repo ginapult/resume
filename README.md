@@ -7,11 +7,11 @@
 
 ## Education
 
-**Interactive Design Foundation**
-Online UX Courses: Human-Computer Interaction with Alan Dix, User Experience with William Hudson
-
 **Code Fellows, Seattle, WA**  
-Certificate - Advanced Software Development in Full-Stack JavaScript
+Certificate &ndash; Advanced Software Development in Full-Stack JavaScript
+
+**Interactive Design Foundation**  
+Online UX Courses &ndash; Human-Computer Interaction with Alan Dix, User Experience with William Hudson
 
 **University of Pennsylvania, Philadelphia, PA**  
 M.G.A. Government Administration
