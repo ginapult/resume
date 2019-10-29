@@ -7,7 +7,7 @@
 
 ## Education
 
-**Interactive Design Foundation**
+**Interactive Design Foundation** 
 Online UX Courses: Human-Computer Interaction with Alan Dix, User Experience with William Hudson
 
 **Code Fellows, Seattle, WA**  
