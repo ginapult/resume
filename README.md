@@ -74,13 +74,14 @@ B.A. Biology, Political Science
 ### **Presentations**
 #### PixE
 <img src="https://github.com/ginapult/resume/blob/master/pixe-present.png" alt="PixE Present" width="400"/>
+
 [View presentation on Google slides](https://docs.google.com/presentation/d/1TkkZSCPCN_BIFwbW-vUOWYB2kcrZR4KV1giHD-fX8yE/edit?usp=sharing)
 
 
 #### GetExcitedPeople
-![GetExcitedPeople Present](https://github.com/ginapult/resume/blob/master/gep-present.png =200)
+<img src="https://github.com/ginapult/resume/blob/master/gep-present.png" alt="PixE Present" width="400"/>
+
 [View presentation on Google slides](https://docs.google.com/presentation/d/1yJIqpMi_lvMNtQubW0UYqydN52bC383eiGLXfi07T0Y/edit?usp=sharing)
-https://github.com/ginapult/resume/blob/master/gep-present.png
 
 ### **Website Design**
 
