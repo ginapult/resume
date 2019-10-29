@@ -84,9 +84,7 @@ B.A. Biology, Political Science
 
 ### **Site Design & Development**
 
-#### The Nepal Foundation | 2018
-
-#### From Mission to Mission | 2017
+#### From Mission to Mission
 <img src="https://github.com/ginapult/resume/blob/master/fmtm-screenshots.png" alt="FMTM" />
 
 
