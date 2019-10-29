@@ -154,10 +154,12 @@ B.A. Biology, Political Science
 ## **Prototype Design**
 ### Data Science for Contracts Tech Startup Prototype (Marvel App)
 <img src="https://github.com/ginapult/resume/blob/master/caer-proto.png" alt="Start up" width="400"/>
+
 [Visit live prototype on Marvel](https://marvelapp.com/1i8dg52g/screen/61651892)
 <hr>
 
 ### PixE App Prototype (Marvel App)
 <img src="https://github.com/ginapult/resume/blob/master/IMG_0161.jpg" alt="PixE Proto" width="400"/>
+
 [Visit live prototype on Marvel](https://marvelapp.com/4gca0bd/screen/62412475)
 
