@@ -90,13 +90,13 @@ B.A. Biology, Political Science
 <img src="https://github.com/ginapult/resume/blob/master/fmtm-screenshots.png" alt="FMTM" />
 
 
-### **Prototypes**
+### **Prototype Design**
 #### Data Science for Contracts Tech Startup Prototype (Marvel App)
 ![Startup Prototype](https://github.com/ginapult/resume/blob/master/caer-proto.png "Startup")
 [Visit live prototype on Marvel](https://marvelapp.com/1i8dg52g/screen/61651892)
 
 #### PixE App Prototype (Marvel App)
-![PixE Prototype](https://github.com/ginapult/resume/blob/master/IMG_0161.jpg "PixE")
+<img src="https://github.com/ginapult/resume/blob/master/IMG_0161.jpg" alt="PixE Proto" width="900"/>
 [Visit live prototype on Marvel](https://marvelapp.com/4gca0bd/screen/62412475)
 
 
