@@ -82,13 +82,12 @@ B.A. Biology, Political Science
 
 [View presentation on Google slides](https://docs.google.com/presentation/d/1yJIqpMi_lvMNtQubW0UYqydN52bC383eiGLXfi07T0Y/edit?usp=sharing)
 
-### **Website Design**
+### **Site Design & Development**
 
 #### The Nepal Foundation (Wordpress)
 
-#### From Mission to Mission (Wordpress)
-
-#### Cabrini Mission Corps (Wordpress)
+#### From Mission to Mission | 2017
+<img src="https://github.com/ginapult/resume/blob/master/fmtm-screenshots.png" alt="FMTM" />
 
 
 ### **Prototyping**
