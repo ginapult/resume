@@ -2,7 +2,7 @@
 [linkedin.com/in/ginampultorak](https://www.linkedin.com/in/ginampultorak/) | [github.com/ginapult](https://github.com/ginapult)
 - 10+ years of experience as technical and non-technical client-facing consultant and project manager in enterprise and non-profit industries in the US and globally
 - Full stack skill-set with a concentration on front-end engineering and UI/UX design
-- Passionate about creating products and experiences that solve customers' problems through user-centered prototyping and  empathy-driven design
+- Passionate about creating products and experiences that solve customers' problems through user-centered, empathy-driven design
 
 
 ## Education
@@ -41,7 +41,7 @@ B.A. Biology, Political Science
 - Video Editor &ndash; Avid, iMovie, Filmora
 - Social Media & Email Distribution System &ndash; MailChimp, Hootsuit
 
-## **PROJECTS**
+## **Projects**
 
 ### **Full-Stack Applications**
 
@@ -64,7 +64,7 @@ B.A. Biology, Political Science
 #### [Push.It: Adulting 101](https://group-project-201-d49.github.io/adulting_101/), [github/adulting-101](https://github.com/ginapult/adulting_101) | JUN 2019
 *   Fun, interactive web app game to help millennials learn Adulting 101 life skills
 *   Built with: HTML5, CSS, JavaScript
-![Adulting101](https://github.com/ginapult/resume/blob/master/adulting.png "Adulting 101")
+![Adulting101](https://github.com/ginapult/resume/blob/master/adulting101-room.png "Adulting 101")
 
 ### **Presentations**
 
@@ -87,7 +87,7 @@ B.A. Biology, Political Science
 [Visit live prototype on Marvel](https://marvelapp.com/4gca0bd/screen/62412475)
 
 
-## **PROFESSIONAL EXPERIENCE**
+## **Professional Experience**
 
 
 ### Project Director | Calm Clarity, Philadelphia, PA | Jan 2017 - Dec 2018
