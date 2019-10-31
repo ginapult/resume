@@ -1,7 +1,7 @@
 # Gina Pultorak &ndash; Software Developer
 [linkedin.com/in/ginampultorak](https://www.linkedin.com/in/ginampultorak/) | [github.com/ginapult](https://github.com/ginapult)
 - 10+ years professional experience in technology (Deloitte Consulting Global Outsources/Data Warehousing) and learning and development nonprofit leadership (Cabrini Mission Corps International Service Program, Calm Clarity Mindful Leadership Training) 
-- Full stack skill-set with a concentration on front-end engineering and UI/UX design
+- Full stack JavaScript skill-set with a concentration on front-end engineering and UI/UX design
 - I care about creating products and experiences that solve customers' problems through user-centered, empathy-driven design
 
 ## **Professional Experience**
