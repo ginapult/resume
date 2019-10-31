@@ -8,7 +8,7 @@
 
 ### Calm Clarity, Philadelphia, PA | Jan 2017 - Dec 2018
 #### Assistant Project Director, Trainer/Facilitator, Mindful Leadership Training
-_Co-coordinated curriculum development and training delivery or social enterprise start-up that facilitates neuroscience-based mindful leadership training._
+_Co-coordinated curriculum development and training delivery for social enterprise start-up that facilitates neuroscience-based mindful leadership training._
 
 Managed logistics, scheduling, and delivery of in-person and virtual training events for professionals, leaders, and university students across the socio-economic spectrum. Script development for virtual training. Developed partnerships with universities to expand social impact efforts. Managed social media, marketing and public relations, client relations, content development, course design, and video and audio content.
 
