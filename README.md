@@ -31,11 +31,11 @@ Led operations and program management through yearly project life-cycle: initiat
 
 ##### Accomplishments
 
-* Increased profitability to make program budget self-sustaining by increasing recruitment/placement and negotiating higher site placement rates with stakeholders; reducing the financial burden on sponsoring organization by 70%
+* Reduced financial burden on sponsoring organization by 70% by increasing recruitment and negotiating higher site placement rates with stakeholders
 
 * Doubled recruitment within one year by streamlining application process and designing and executing a new branding, marketing, and recruitment strategy
 
-* Designed processes for collecting participant feedback and incorporating improvements to the learning and development curriculum for program participants; led to increased levels of satisfaction year-after-year, consistently - feedback rose from 3/5 to 4.5/5 approval level on training and preparation
+* Improved learning and development curriculum feedback scores by 30% by creating iterative feedback collection process and incorporating improvements based on data
 ***
 
 ### Deloitte Consulting, East Brunswick, NJ
