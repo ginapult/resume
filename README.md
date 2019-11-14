@@ -93,7 +93,7 @@ B.A. Biology, Political Science
 - Framework &ndash; React, React Native, Redux, Node.js, Express, Handlebars, Styled Components, Bootstrap, Axios, jQuery
 - Editor &ndash; VS Code, Webstorm
 - Version control &ndash; GitHub, CLI
-- Cloud &ndash; AWS, Google Firebase, 
+- Cloud &ndash; AWS, Google Firebase
 - Database &ndash; PostgreSQL, MongoDB, Google Firestore
 - Deployment &ndash; Heroku, Netlify, AWS
 - Content Management System &ndash; WordPress, Wix, Weebly
