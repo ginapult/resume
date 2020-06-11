@@ -8,9 +8,15 @@
 
 ### Microsoft, Redmond, WA | Mar 2020 - Present
 #### LEAP TPM Apprentice, Azure Resource Manager (ARM)
-_Working with ARM team to conduct customer research, evaluate and prioritize pain-points, identify, recommend, implement, and iterate on solutions. PM for projects related to Control Plane data and KPIs including data cleansing, business insights and telemetry reporting, technical documentation, managing external vendor dev team, and technical knowledge transfer._
+_Participating in 16-week immersive apprenticeship program combining traditional classroom learning (soft skills training, fundamentals of C#, object-oriented programming, Azure and Azure DevOps, Visual Studio) with hands-on experience within the Azure Compute - Azure Resource Manager (ARM) organization._
+
+Working with ARM team to conduct customer research, evaluate and prioritize pain-points, identify, recommend, implement, and iterate on solutions. PM for projects related to Control Plane data and KPIs including data cleansing, business insights and telemetry reporting, technical documentation, managing external vendor dev team, and technical knowledge transfer.
 
 Key project technologies: Azure DevOps, PowerBI, Kusto, SQL, Teams.
+
+### CodeFellows, Seattle, WA | Nov 2019 - Feb 2020
+#### Lead Teaching Assistant
+_Supporting diverse students learning HTML, CSS, and JavaScript, third-party APIs and libraries, MVC architecture, object-oriented and functional programming, data structures and algorithms._
 
 ### Calm Clarity, Philadelphia, PA | Jan 2017 - Dec 2018
 #### Assistant Project Director, Trainer/Facilitator, Mindful Leadership Training
