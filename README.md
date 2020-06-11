@@ -1,10 +1,16 @@
-# Gina Pultorak &ndash; Software Developer
+# Gina Pultorak &ndash; Program Manager / Software Developer
 [linkedin.com/in/ginampultorak](https://www.linkedin.com/in/ginampultorak/) | [github.com/ginapult](https://github.com/ginapult)
-- 10+ years professional experience in technology (Deloitte Consulting Global Outsources/Data Warehousing) and learning and development nonprofit leadership (Cabrini Mission Corps International Service Program, Calm Clarity Mindful Leadership Training) 
+- 10+ years professional experience in technology (Microsoft, Deloitte Consulting Global Outsourcing/Data Warehousing) and learning and development nonprofit leadership (Cabrini Mission Corps International Service Program, Calm Clarity Mindful Leadership Training) 
 - Continuous learner with full stack JavaScript skill-set with a concentration on front-end engineering and UI/UX design
 - Passionate about creating products and experiences that solve customers' problems through user-centered, empathy-driven design
 
 ## **Professional Experience**
+
+### Microsoft, Redmond, WA | Mar 2020 - Present
+#### LEAP TPM Apprentice, Azure Resource Manager (ARM)
+_Working with ARM team to conduct customer research, evaluate and prioritize pain-points, identify, recommend, implement, and iterate on solutions. PM for projects related to Control Plane data and KPIs including data cleansing, business insights and telemetry reporting, technical documentation, managing external vendor dev team, and technical knowledge transfer._
+
+Key project technologies: Azure DevOps, PowerBI, Kusto, SQL, Teams.
 
 ### Calm Clarity, Philadelphia, PA | Jan 2017 - Dec 2018
 #### Assistant Project Director, Trainer/Facilitator, Mindful Leadership Training
