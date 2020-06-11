@@ -14,7 +14,7 @@ Working with ARM team to conduct customer research, evaluate and prioritize pain
 
 Key project technologies: Azure DevOps, PowerBI, Kusto, SQL, Teams.
 
-### CodeFellows, Seattle, WA | Nov 2019 - Feb 2020
+### Code Fellows, Seattle, WA | Nov 2019 - Feb 2020
 #### Lead Teaching Assistant
 _Supporting diverse students learning HTML, CSS, and JavaScript, third-party APIs and libraries, MVC architecture, object-oriented and functional programming, data structures and algorithms._
 
